@@ -1,0 +1,16 @@
+
+body {
+  background-color:black;
+}
+img {
+  height:50px;
+  width:50px;
+}
+.title {
+  padding:25px;
+  color:white;
+}
+.space {
+  padding:4px;
+}
+
